@@ -359,7 +359,7 @@
 		(uuid "714b30dc-e717-4973-8f78-6a7e2f7e2db5")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
+	(model "${KIPRJMOD}/reversible.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

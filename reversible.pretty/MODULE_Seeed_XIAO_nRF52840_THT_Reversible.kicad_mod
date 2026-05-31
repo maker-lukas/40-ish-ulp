@@ -498,7 +498,7 @@
 		(uuid "3427bd3a-133a-404f-b27e-0f2e73ebca07")
 	)
 	(embedded_fonts no)
-	(model "/home/lukas/Documents/PCB/Librarys/seeed-studio-xiao-nrf52840-1.snapshot.5/XIAO-nRF52840 v15.step"
+	(model "${KIPRJMOD}/reversible.3dshapes/XIAO-nRF52840_v15.step"
 		(offset
 			(xyz 6.1 -1.73 0)
 		)
@@ -509,7 +509,7 @@
 			(xyz -90 -0 -90)
 		)
 	)
-	(model "/home/lukas/Documents/PCB/Librarys/seeed-studio-xiao-nrf52840-1.snapshot.5/XIAO-nRF52840 v15.step"
+	(model "${KIPRJMOD}/reversible.3dshapes/XIAO-nRF52840_v15.step"
 		(hide yes)
 		(offset
 			(xyz -6.1 -1.73 -1.6)

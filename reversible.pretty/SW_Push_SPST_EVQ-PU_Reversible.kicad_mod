@@ -7,7 +7,7 @@
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "a297221b-0952-472b-a4bb-bc32aa83f1bf")
+		(uuid "8894058e-aa63-4357-b49f-a5c99cf80263")
 		(effects
 			(font
 				(size 1 1)
@@ -18,7 +18,7 @@
 	(property "Value" "SW_Push_Dual"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "e59d7d3d-bacf-47ed-8eb7-8a1354fc810a")
+		(uuid "554bb20e-5c10-40f5-b761-5d5d5fc36872")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30,7 +30,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "7ac8a256-4da1-41d8-a35e-fbe537819363")
+		(uuid "70ee2484-edb4-429a-9d97-45adb84d3b95")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -42,7 +42,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "44e84d53-e1fc-4d15-b0fd-ba6108ee34f7")
+		(uuid "cbcb2b11-766e-40d2-abe2-5a017637c5b6")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -55,7 +55,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "b5340543-ee3e-45cd-8fce-62f2c85d1ed3")
+		(uuid "a64757a4-85dd-4f8e-931d-ec00b03cefa3")
 		(effects
 			(font
 				(size 1 1)
@@ -75,7 +75,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "c857acbf-7e8e-4504-b30b-92e804b05403")
+		(uuid "f9c59986-4135-479e-a048-fb1328ccfc6d")
 	)
 	(fp_line
 		(start -2.35 1.5)
@@ -85,7 +85,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "c8784125-3ec1-48a6-91c1-c81d846d6d19")
+		(uuid "b4cfee80-b562-45c9-85ca-b7ffe47ecb35")
 	)
 	(fp_line
 		(start -2.1 -1.75)
@@ -95,7 +95,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "c64ce401-4b32-4e91-823f-f7bc2ce4695d")
+		(uuid "570dc1f7-f73d-4ae5-bfa5-0f17e3ebc2a2")
 	)
 	(fp_line
 		(start -2.1 1.75)
@@ -105,7 +105,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "ff35eaf1-b706-4740-8c52-98377b428c54")
+		(uuid "fe1818cd-ae2f-4222-8a15-1d1c56fb1966")
 	)
 	(fp_line
 		(start 2.1 -1.75)
@@ -115,7 +115,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "852fd628-2b10-40ed-8dfd-bfa5ddc21375")
+		(uuid "ca933248-3bfb-429e-945c-874e87bd674a")
 	)
 	(fp_line
 		(start 2.1 1.75)
@@ -125,7 +125,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "4e79a779-24cb-4d68-be7c-9d2fbafdc669")
+		(uuid "fb8560e5-60d8-4054-a299-fcb423c64bcd")
 	)
 	(fp_line
 		(start 2.35 -1.5)
@@ -135,7 +135,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "5d9ec1c5-7cfb-4863-9146-969da8eb7fb8")
+		(uuid "716488d4-0dc5-475c-b491-399119e28dd1")
 	)
 	(fp_line
 		(start 2.35 1.5)
@@ -145,7 +145,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "5e7ad197-a64e-42d8-a9b7-a90cd1bc955e")
+		(uuid "e8121612-11fb-44fc-90ed-6e8b558fa356")
 	)
 	(fp_line
 		(start -2.35 -1.75)
@@ -155,7 +155,7 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "497bb712-10e4-49bb-83bf-3d8a85d7b65c")
+		(uuid "d48f1237-ec51-46da-a885-91bad9995ba5")
 	)
 	(fp_line
 		(start -2.35 -1.75)
@@ -165,7 +165,7 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "03a67787-24e0-4045-9c41-f4e7539fb583")
+		(uuid "3aba2822-ec23-4b98-b3d8-105199b872f5")
 	)
 	(fp_line
 		(start -2.35 1.75)
@@ -175,7 +175,7 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "94d03299-0655-4c8c-ab6c-b6739ed915fd")
+		(uuid "c3fe67cd-a327-41ae-b430-20152add55bd")
 	)
 	(fp_line
 		(start -1.3 -2.75)
@@ -185,7 +185,7 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "9a9ac1c7-9c50-4567-9a11-9685af250521")
+		(uuid "e49403b3-810f-4683-be1d-7c895bfbe5d3")
 	)
 	(fp_line
 		(start -1.3 -2.75)
@@ -195,7 +195,7 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "c9ae8a67-917e-4e0e-8b45-085e7ccf7823")
+		(uuid "b0e0119b-7af8-4728-b258-04cccb947c79")
 	)
 	(fp_line
 		(start 1.3 -2.75)
@@ -205,7 +205,7 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "ea67ddb7-3f5a-49de-a9f0-4aafd429ad22")
+		(uuid "08fa8eed-6343-41ca-94c4-29f3c521781d")
 	)
 	(fp_line
 		(start 2.35 -1.75)
@@ -215,72 +215,72 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "dae41c81-c8d7-4a7b-a20d-ec9e38e75176")
+		(uuid "bf706565-25c6-441f-8fbf-bf016ab62998")
 	)
 	(pad "" np_thru_hole circle
 		(at 0 -1.375 180)
 		(size 0.75 0.75)
 		(drill 0.75)
 		(layers "*.Cu" "*.Mask")
-		(uuid "26eacf6a-674a-433a-8392-6ece2099e11a")
+		(uuid "88d4bdf6-2c3c-434d-8ac3-5614c702a02e")
 	)
 	(pad "" np_thru_hole circle
 		(at 0 1.375 180)
 		(size 0.75 0.75)
 		(drill 0.75)
 		(layers "*.Cu" "*.Mask")
-		(uuid "af8e8cc8-8c7e-4742-b37d-3c7d9aec728a")
+		(uuid "1279b21f-df2b-4e59-9b72-cafbcc367f06")
 	)
 	(pad "1" smd rect
 		(at -2.625 -0.85 180)
 		(size 1.55 1)
 		(layers "B.Cu" "B.Mask" "B.Paste")
-		(uuid "a53efdae-fe2c-4f1a-8a2f-f25701f02bf8")
+		(uuid "5156a7be-444d-4bef-ae79-b701a36fe061")
 	)
 	(pad "1" smd rect
 		(at 2.625 -0.85 180)
 		(size 1.55 1)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "58279003-5d6c-45c6-96f8-3ad43c195bb5")
+		(uuid "f8d05909-2471-4a4a-b12a-30871ea58652")
 	)
 	(pad "2" smd rect
 		(at -2.625 0.85 180)
 		(size 1.55 1)
 		(layers "B.Cu" "B.Mask" "B.Paste")
-		(uuid "520cee73-2809-49a1-9ee5-32ee277ef70e")
+		(uuid "d49844c1-6075-4010-be5d-c7e47900008f")
 	)
 	(pad "2" smd rect
 		(at 2.625 0.85 180)
 		(size 1.55 1)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "417410a8-fbb1-4634-bf52-f8a29f648e75")
+		(uuid "608687d3-00fe-4772-b038-2ff96dc5fc35")
 	)
 	(pad "3" smd rect
 		(at -2.625 -0.85 180)
 		(size 1.55 1)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "db3cc1f7-da89-40cd-a242-ed25d61b41b7")
+		(uuid "45c1c606-4c09-484e-896d-b4929417c9dd")
 	)
 	(pad "3" smd rect
 		(at 2.625 -0.85 180)
 		(size 1.55 1)
 		(layers "B.Cu" "B.Mask" "B.Paste")
-		(uuid "bdffae1b-c820-4d63-9e7f-effc36bbd6d7")
+		(uuid "177e4a70-e45d-4221-aa92-f6b20a0d49f9")
 	)
 	(pad "4" smd rect
 		(at -2.625 0.85 180)
 		(size 1.55 1)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "e78c9bff-87cc-412a-b0dd-49f8d7071839")
+		(uuid "3e4adff9-1bd1-4495-8290-6ecca7cb4aff")
 	)
 	(pad "4" smd rect
 		(at 2.625 0.85 180)
 		(size 1.55 1)
 		(layers "B.Cu" "B.Mask" "B.Paste")
-		(uuid "ca553b3d-9905-43a5-b051-e0009341fab3")
+		(uuid "67420e1c-ccc2-43b6-88e8-fbc1cf760587")
 	)
 	(embedded_fonts no)
-	(model "${EG_UNSPECWORKS_3D_MODELS}/EVQPU-LC-02K.STEP"
+	(model "${KIPRJMOD}/reversible.3dshapes/EVQPUL02K.stp"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -288,7 +288,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -90 0 -180)
+			(xyz -90 -0 180)
 		)
 	)
 )

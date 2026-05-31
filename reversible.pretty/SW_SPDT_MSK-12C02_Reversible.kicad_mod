@@ -142,7 +142,7 @@
 		(uuid "8155aa10-f1ba-465c-94b1-25815aeb696f")
 	)
 	(embedded_fonts no)
-	(model "${EG_uuuuuser_3D_MODELS}/MSK12C02.step"
+	(model "${KIPRJMOD}/reversible.3dshapes/Switch_MSK12C02.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -153,7 +153,7 @@
 			(xyz -90 0 -90)
 		)
 	)
-	(model "/home/lukas/Documents/PCB/Librarys/ScottoKicad/3dmodels/ScottoKeebs_Components.3dshapes/Switch_MSK12C02.step"
+	(model "${KIPRJMOD}/reversible.3dshapes/Switch_MSK12C02.step"
 		(offset
 			(xyz -0.1 0 0)
 		)

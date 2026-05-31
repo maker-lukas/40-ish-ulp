@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "EVQPUL02K") (type "KiCad") (uri "${KIPRJMOD}/LIB_EVQPUL02K/EVQPUL02K/KiCad/EVQPUL02K.kicad_sym") (options "") (descr ""))
+)
