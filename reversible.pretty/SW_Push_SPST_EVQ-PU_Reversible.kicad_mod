@@ -1,4 +1,4 @@
-(footprint "reset_switch"
+(footprint "SW_Push_SPST_EVQ-PU_Reversible"
 	(version 20260206)
 	(generator "pcbnew")
 	(generator_version "10.0")

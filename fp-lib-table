@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "reversible") (type "KiCad") (uri "${KIPRJMOD}/reversible.pretty") (options "") (descr ""))
+)
