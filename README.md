@@ -26,4 +26,4 @@
 | Reset Switch | 2 | EVQ-PUL02K | $1.87 | [aliexpress.com](https://pt.aliexpress.com/item/1005010726427079.html?spm=a2g0o.productlist.main.1.37612zKr2zKr4a&algo_pvid=35fed1d4-07da-4b09-9190-14072a759f12&algo_exp_id=35fed1d4-07da-4b09-9190-14072a759f12-0&pdp_ext_f=%7B%22order%22%3A%222%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.80%211.62%21%21%2113.78%2112.40%21%402103985c17810202065858808e4bd9%2112000053323977252%21sea%21PT%216372042523%21X%211%210%21n_tag%3A-29919%3Bd%3Ae275294c%3Bm03_new_user%3A-29895&curPageLogUid=azX36gERXoEJ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010726427079%7C_p_origin_prod%3A) |
 | LEDs | 2 | WS2812B | N/A | N/A |
 | Case | 2 | | N/A | N/A |
-| Keycaps | 36 | | N/A | N/A |
+| Keycaps | 36 | Resin Printed | $37.46 | [jlc3dp.com](https://jlc3dp.com) |
