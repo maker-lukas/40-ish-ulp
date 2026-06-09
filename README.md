@@ -22,8 +22,8 @@
 | PCBs | 5 | Reversible, MOQ 5 | N/A | [jlcpcb.com](https://jlcpcb.com) |
 | Batteries | 2 | Filament powder 1200 | N/A | N/A |
 | Diodes | 36 | SOD-123 | N/A | N/A |
-| Power Switch | 2 | MK-12C02 | N/A | N/A |
-| Reset Switch | 2 | EVQ-PUL02K | N/A | N/A |
+| Power Switch | 2 | MK-12C02 | $0.87 | [aliexpress.com](https://pt.aliexpress.com/item/1005011530988236.html?spm=a2g0o.productlist.main.2.4b94AQTQAQTQEM&algo_pvid=49ac8b33-d3a9-42ef-aecb-8832c2ce57b5&algo_exp_id=49ac8b33-d3a9-42ef-aecb-8832c2ce57b5-1&pdp_ext_f=%7B%22order%22%3A%225%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%210.08%210.08%21%21%210.64%210.64%21%40211b655217810200017172627e0851%2112000055836387189%21sea%21PT%216372042523%21X%211%210%21n_tag%3A-29919%3Bd%3Ae275294c%3Bm03_new_user%3A-29895&curPageLogUid=j2G8s4dYNWkM&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011530988236%7C_p_origin_prod%3A) |
+| Reset Switch | 2 | EVQ-PUL02K | $1.87 | [aliexpress.com](https://pt.aliexpress.com/item/1005010726427079.html?spm=a2g0o.productlist.main.1.37612zKr2zKr4a&algo_pvid=35fed1d4-07da-4b09-9190-14072a759f12&algo_exp_id=35fed1d4-07da-4b09-9190-14072a759f12-0&pdp_ext_f=%7B%22order%22%3A%222%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.80%211.62%21%21%2113.78%2112.40%21%402103985c17810202065858808e4bd9%2112000053323977252%21sea%21PT%216372042523%21X%211%210%21n_tag%3A-29919%3Bd%3Ae275294c%3Bm03_new_user%3A-29895&curPageLogUid=azX36gERXoEJ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010726427079%7C_p_origin_prod%3A) |
 | LEDs | 2 | WS2812B | N/A | N/A |
 | Case | 2 | | N/A | N/A |
 | Keycaps | 36 | | N/A | N/A |
