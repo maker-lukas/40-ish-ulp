@@ -1,3 +1,3 @@
 ## 40%ush ULP
 
-a cool keeb
+A 36 key ultra low profile wireless split keyboard
