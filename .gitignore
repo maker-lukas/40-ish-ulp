@@ -1,6 +1,6 @@
-ulp-backups/
-~ulp.kicad_pcb.lck
-~ulp.kicad_pro.lck
-~ulp.kicad_sch.lck
-ulp.kicad_prl
-
+# KiCad backups, locks and runtime files
+pcb/ulp-backups/
+pcb/*.lck
+pcb/*~
+pcb/ulp.kicad_prl
+~*.lck
