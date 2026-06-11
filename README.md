@@ -2,6 +2,8 @@
 
 > A split wireless 36 key keyboard powered by the Seeed XIAO Nrf52840 with cherry ULP switches.
 
+![banner](banner.png)
+
 ---
 
 ## Features
