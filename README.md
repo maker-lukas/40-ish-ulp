@@ -31,3 +31,15 @@
 | LEDs | 2 | WS2812B | $1.14 | [aliexpress.com](https://pt.aliexpress.com/item/1005008739048100.html?spm=a2g0o.productlist.main.49.35eb638aZXzSy0&algo_pvid=48b26dcb-ece9-43f2-b0ab-2c0e106103ff&algo_exp_id=48b26dcb-ece9-43f2-b0ab-2c0e106103ff-48&pdp_ext_f=%7B%22order%22%3A%2276%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%215.33%214.21%21%21%2140.71%2132.16%21%40211b653717810204425846941ed29c%2112000046470773461%21sea%21PT%216372042523%21X%211%210%21n_tag%3A-29919%3Bd%3Ae275294c%3Bm03_new_user%3A-29895&curPageLogUid=OG2IN5ROW2KO&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008739048100%7C_p_origin_prod%3A) |
 | Case | 2 | | N/A | N/A |
 | Keycaps | 36 | Resin Printed | $37.46 | [jlc3dp.com](https://jlc3dp.com) |
+
+---
+
+## Zine
+
+<div align="center">
+  <a href="zine.pdf">
+    <img src="zine.png" width="80%">
+  </a>
+  <br>
+  <p><a href="zine.pdf">Full PDF</a></p>
+</div>
