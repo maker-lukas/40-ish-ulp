@@ -8,6 +8,10 @@
 
 ---
 
+**40%ish** ulp is a split, ultra low profile keyboard with a 36 key layout, which is great when you are traveling or like a clean and slim build on your desk. It's only 8.25mm thick, with a huge battery so you won't have to charge it every day. It even has a status LED to tell you when the battery is low. Being wireless, it can connect to any device. Using ZMK firmware, you can customize your layout on the fly inside your browser, and its really power efficient!
+
+---
+
 ## Features
 
 - 36 key split layout

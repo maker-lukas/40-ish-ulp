@@ -1,0 +1,16 @@
+if SHIELD_ULP_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "40ish ulp"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif # SHIELD_ULP_LEFT
+
+if SHIELD_ULP_LEFT || SHIELD_ULP_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif # SHIELD_ULP_LEFT || SHIELD_ULP_RIGHT
