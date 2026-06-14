@@ -40,9 +40,10 @@
 
 ## Pictures
 
-| Blueprint | Zine |
-|-----------|------|
-| ![blueprint](blueprint.png) | [![zine](zine.png)](zine.pdf) |
+| | |
+|---|------|
+| **Blueprint** | ![blueprint](blueprint.png) |
+| **Zine** | [![zine](zine.png)](zine.pdf) |
 | | [Full PDF](zine.pdf) |
 
 
