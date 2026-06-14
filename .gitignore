@@ -1,4 +1,5 @@
 # KiCad backups, locks and runtime files
+/ulp-backups/
 pcb/ulp-backups/
 pcb/*.lck
 pcb/*~
