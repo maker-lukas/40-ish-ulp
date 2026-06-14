@@ -38,12 +38,11 @@
 
 ---
 
-## Zine
+## Pictures
 
-<div align="center">
-  <a href="zine.pdf">
-    <img src="zine.png" width="80%">
-  </a>
-  <br>
-  <p><a href="zine.pdf">Full PDF</a></p>
-</div>
+| Blueprint | Zine |
+|-----------|------|
+| ![blueprint](blueprint.png) | [![zine](zine.png)](zine.pdf) |
+| | [Full PDF](zine.pdf) |
+
+
