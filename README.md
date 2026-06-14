@@ -43,6 +43,8 @@
 | |
 |:---:|
 | **Blueprint**<br><br>![blueprint](blueprint.png) |
+| **Schematic**<br><br>![schematic](schematic.png) |
+| **PCB**<br><br>![pcb](pcb.png) |
 | **Zine**<br><br>[![zine](zine.png)](zine.pdf)<br>[Full PDF](zine.pdf) |
 
 
