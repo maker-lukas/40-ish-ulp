@@ -4,4 +4,7 @@ pcb/ulp-backups/
 pcb/*.lck
 pcb/*~
 pcb/ulp.kicad_prl
+pcb/fabrication-toolkit-options.json
+pcb/fp-lib-table
+pcb/sym-lib-table
 ~*.lck
