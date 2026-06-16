@@ -4,18 +4,18 @@
 
 <div>
   <a target="_blank" href="https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fmaker-lukas%2F40-ish-ulp%2Fblob%2Fmain%2Fpcb%2Fulp.kicad_pro">
-    <img src="images/kicanvas_banner.png" alt="View on KiCanvas" width="95">
+    <img src="assets/kicanvas_banner.png" alt="View on KiCanvas" width="95">
   </a>
 </div>
 
 <div>
   <a target="_blank" href="https://autode.sk/3Qic5Ux">
-    <img src="images/cad_banner.png" alt="View CAD" width="95">
+    <img src="assets/cad_banner.png" alt="View CAD" width="95">
   </a>
 </div>
 
 <div align="center">
-  <img src="images/banner.png" width="50%" style="transform: translateY(-50px);">
+  <img src="assets/banner.png" width="50%" style="transform: translateY(-50px);">
 </div>
 
 ---
@@ -56,9 +56,9 @@
 
 | |
 |:---:|
-| **Blueprint**<br><br>![blueprint](images/blueprint.png) |
-| **Schematic**<br><br>![schematic](images/schematic.png) |
-| **PCB**<br><br>![pcb](images/pcb.png) |
-| **Zine**<br><br>[![zine](images/zine.png)](images/zine.pdf)<br>[Full PDF](images/zine.pdf) |
+| **Blueprint**<br><br>![blueprint](assets/blueprint.png) |
+| **Schematic**<br><br>![schematic](assets/schematic.png) |
+| **PCB**<br><br>![pcb](assets/pcb.png) |
+| **Zine**<br><br>[![zine](assets/zine.png)](assets/zine.pdf)<br>[Full PDF](assets/zine.pdf) |
 
 
