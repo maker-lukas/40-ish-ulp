@@ -40,7 +40,7 @@
 | MCU | 2 | Seeed XIAO nRF52840 | $26.18 | [mauser.pt](https://mauser.pt/095-1482/seeed-102010448-microcontrolador-seeed-studio-xiao-nrf52840-c-bluetooth-5-0-ble-nfc-e-carregamento-de-bateria) |
 | Switches (pack of 10) | 4 | Cherry ULP | $41.63 | [keeb.supply](https://keeb.supply/products/cherry-mx-ulp?variant=a840d9fa-f4e0-4218-be04-4d0f5e8f7554) |
 | PCBs | 5 | Reversible, MOQ 5 | $11.06 | [jlcpcb.com](https://jlcpcb.com) |
-| Batteries | 2 | Filament powder 1200 | N/A | N/A |
+| Batteries | 2 | 307095, 5000mAh battery | $16.23 | [aliexpress.com](https://pt.aliexpress.com/item/1005009973979747.html) |
 | Diodes | 36 | SOD-123 | $1.57 | [aliexpress.com](https://pt.aliexpress.com/item/1005012163356976.html) |
 | Power Switch | 2 | MK-12C02 | $0.87 | [aliexpress.com](https://pt.aliexpress.com/item/1005011530988236.html) |
 | Reset Switch | 2 | EVQ-PUL02K | $1.87 | [aliexpress.com](https://pt.aliexpress.com/item/1005010726427079.html) |
@@ -48,7 +48,7 @@
 | Case | 2 | | $6.42 | [jlc3dp.com](https://jlc3dp.com) |
 | Keycaps | 36 | Resin Printed | $37.46 | [jlc3dp.com](https://jlc3dp.com) |
 | Magnets | 8 | 5x2mm round magnets | $2.88 | [aliexpress.com](https://pt.aliexpress.com/item/1005009605352565.html) |
-| **Total** | | | **$131.08** | |
+| **Total** | | | **$147.31** | |
 
 ---
 
