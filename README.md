@@ -4,7 +4,7 @@
 
 <div>
   <a target="_blank" href="https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fmaker-lukas%2F40-ish-ulp%2Fblob%2Fmain%2Fpcb%2Fulp.kicad_pro">
-    <img src="images/kicanvas_banner.png" alt="View on KiCanvas">
+    <img src="images/kicanvas_banner.png" alt="View on KiCanvas" width="95">
   </a>
 </div>
 
