@@ -8,6 +8,12 @@
   </a>
 </div>
 
+<div>
+  <a target="_blank" href="https://autode.sk/3Qic5Ux">
+    <img src="images/cad_banner.png" alt="View CAD" width="95">
+  </a>
+</div>
+
 <div align="center">
   <img src="images/banner.png" width="50%" style="transform: translateY(-15px);">
 </div>
