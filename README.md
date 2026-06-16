@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="images/banner.png" width="50%" style="transform: translateY(-15px);">
+  <img src="images/banner.png" width="50%" style="transform: translateY(-50px);">
 </div>
 
 ---
