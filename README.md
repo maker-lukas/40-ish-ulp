@@ -52,6 +52,17 @@
 
 ---
 
+
+## Soldering notes
+
+Because the PCB is reversible, some of the pins need to be reversed by bridging solder jumpers. Solder all 5 points shown in the images below for each side.
+
+| Left | Right |
+|:---:|:---:|
+| ![solder_left](assets/left%20solder.png) | ![solder_right](assets/right%20solder.png) |
+
+---
+
 ## Pictures
 
 | |
